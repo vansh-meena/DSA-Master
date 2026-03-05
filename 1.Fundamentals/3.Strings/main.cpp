@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-/*
+
     int ch = 0;
     char str [20];
     char str1 [20];
@@ -94,11 +94,11 @@ int main() {
 //    string_Op o;
 //    cout << "Permutation of string " << endl;
 //    o.permutation_of_string(str2, 0);
- */
+ 
 
 //    power_of_2();
     
-    single_unique_element();
+//    single_unique_element();
     
     return 0;
 }
